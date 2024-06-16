@@ -1,0 +1,6 @@
+/* Custom CSS for left margin using media query */
+    @media (min-width: 768px) {
+      .marging-left {
+        margin-left: 380px; /* Adjust this value as needed */
+      }
+    }
